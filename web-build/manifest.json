@@ -1,0 +1,9 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "lang": "en",
+  "name": "cryptoexchange",
+  "short_name": "cryptoexchange",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait"
+}
